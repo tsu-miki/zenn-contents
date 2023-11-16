@@ -15,6 +15,18 @@ published: false
 
 とはいえ、既にTypeScriptについて綺麗にまとめられている学習ソースは世の中にたくさんあるので、詳しいことはまともな情報源で見ろっスタンスで、自分用の忘備録としてまとめます。
 
+# 学習方法
+ブルーベリー本を基本的な教材として進めつつ、気になった部分は、辞書的にオライリーを使おうと思います。
+https://www.amazon.co.jp/o/ASIN/4297127474/gihyojp-22
+https://www.oreilly.co.jp/books/9784814400362/
+
+手を動かしつつサクッと学びたい方は、サバイバルTypeScriptが良さそうだなと思いました。
+https://typescriptbook.jp/
+
+また、つよつよエンジニアの先輩に「特に知っておいた方がいい部分とかありますか？」と聞いたところ、「強いて言えば、ts から js に変換されるときに何が行われているのか（トランスコンパイル / バンドルの考え方、モジュール形式の違いなど）と、[ここ](https://typescriptbook.jp/overview)に書かれているような ts ならではのことが分かっていれば、あとはコード書いてれば自然と理解度が深まっていくはずかな。」
+
+とアドバイスをいただいたので、まずはTypeScriptの根幹となる考え方や言語仕様を抑えつつ、枝葉の部分は手を動かしながら理解を深めていこうと思います。
+
 # TypeScript とは
 TypeScriptとは、Microsoftが開発した（2012年10月1日に初めて発表）JavaScriptを拡張して作られたプログラミング言語のことです。静的な型付けが追加されていて、TypeScriptで書かれたコードはJavaScriptにコンパイルされて、ブラウザやサーバーなどの実行環境で動作します。
 
@@ -22,15 +34,3 @@ altJSってやつですね。altJSは、TypeScript以外にもたくさんあり
 https://coffeescript.org/
 https://dart.dev/
 https://haxe.org/
-
-
-# 学習ソース
-https://typescriptbook.jp/
-https://qiita.com/Futo_Horio/items/de182639b7e4261c9606
-https://qiita.com/irico/items/33744e15a4e0ca52d6bc
-https://qiita.com/mu-suke08/items/085cde8dbd797de64ccd
-https://zenn.dev/ogakuzuko/articles/64a178d6e83277
-https://oukayuka.booth.pm/
-https://typescriptbook.jp/learning-resources
-https://zenn.dev/nameless_sn/articles/frontend-masternote
-https://qiita.com/yukiji/items/ae2dbbd34f8557d5af19
