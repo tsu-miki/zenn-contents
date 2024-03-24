@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsuzuki-auk/zenn-contents.git"
+    "url": "git+https://github.com/tsu-miki/zenn-contents.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tsuzuki-auk/zenn-contents/issues"
+    "url": "https://github.com/tsu-miki/zenn-contents/issues"
   },
-  "homepage": "https://github.com/tsuzuki-auk/zenn-contents#readme",
+  "homepage": "https://github.com/tsu-miki/zenn-contents#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.146"
+    "zenn-cli": "^0.1.153"
   }
 }
