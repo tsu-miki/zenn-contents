@@ -50,3 +50,16 @@ https://www.langchain.com/langsmith
 Microsoftが開発したプロンプトを圧縮するオープンソースツール。
 最大20倍の圧縮率を実現するらしい。日本語もちゃんと対応できたら費用削減になりそう。
 https://github.com/microsoft/LLMLingua
+
+## Technology Radar
+Thoughtworks が発表している技術トレンドの調査結果。
+LLM に特化してるわけじゃないけど、技術的に何か面白いことできないか探す時に使った。（LLMLinga も Technology Radar で見つけた。）
+https://www.thoughtworks.com/radar
+
+## Lite LLM
+異なる LLM を単一インターフェースで統合するオープンソースライブラリ。
+Lang Chain ほど多機能なライブラリじゃなくて、LLM を呼び出しをいい感じにしたい、というときに使える。
+https://www.litellm.ai/
+
+Proxy Server 経由で使えば、Python じゃなくてもいい。
+https://github.com/BerriAI/liteLLM-proxy
