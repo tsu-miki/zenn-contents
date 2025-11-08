@@ -3,7 +3,7 @@ title: "生成AI周りでキャッチアップしたことをまとめる"
 emoji: "🎉"
 type: "tech"
 topics: ["生成AI", "LLM", "LangChain"]
-published: true
+published: false
 ---
 1月の中旬からLLMを使った機能の開発をやるチームになったので、その中でキャッチアップしたことをまとめておく。
 
